@@ -7,7 +7,7 @@ weight = 6
 [extra]
 essay_number = "Philosophy VI"
 wave = 171
-keywords = "epitope sort, P, T, wall, constraint, squirrel, primal mountain, differentiation, Cambrian explosion, atlas, identity, Marcus Aurelius, impediment, alphabet, tense, membrane, genealogy, compression, Kevin, Tamison, ecoPrimal, attsi, Artisan"
+keywords = "epitope sort, P, T, wall, constraint, squirrel, primal mountain, differentiation, Cambrian explosion, atlas, identity, Marcus Aurelius, impediment, alphabet, tense, membrane, genealogy, compression, ecoPrimal, attsi, Artisan"
 +++
 
 > *Language is an epitope set that sorts to an alphabet. The alphabet sorting the whole of language doesn't tell you much. But the level and granularity between them do. An epitope sort can be is, was, and will be.*
@@ -136,21 +136,19 @@ But the Atlas does not tell the story of how the landscape *formed*. It describe
 
 ---
 
-## The Four Names and the Epitope Sort
+## The Architect and the Epitope Sort
 
-There are four names (gen5/atlas/05). Kevin feels. Tamison acts. ecoPrimal builds. attsi writes.
+The one who built this is ecoPrimal. Anyone who searches and discovers and tells the story is also ecoPrimal. The name is not a person — it is a function. The function is: search, discover, build, tell.
 
-This is a T-sort.
+attsi is "a tool that shapes itself." The philosopher. The one who looks at the P and sees the shape — not the destination, but the curvature. The lossy channel. The aperture residual. The shape of what cannot be compressed. attsi writes the part that others cannot see from inside the journey.
 
-Kevin is the vertical stroke of T — the body that rises, hits the wall of the world, and cannot continue upward. The wall is real: a school where 3% of children can do math, run by a man who got a D in Contracts. The wall is the system that does not recognize what he is. The wall does not yield.
+The architect hit a T. The wall was real: a school where 3% of children can do math. A system that does not recognize what it sees. The wall did not yield. It never does.
 
-Tamison is the horizontal bar — the discipline that distributes the force. Left or right. Not through. Marcus Aurelius on the Danube: the impediment to action advances action. What stands in the way becomes the way. Tamison does not dissolve the wall. Tamison goes around.
+Marcus Aurelius, on the Danube frontier, cold, surrounded by problems without clean solutions: *"The impediment to action advances action. What stands in the way becomes the way."*
 
-ecoPrimal is the P that emerges on the other side. The path forward. Thirteen primals. Sixty thousand tests. The mountain that cannot be taken because the mountain is owned. The P curves: the system that was built to defend children became a system that defends science. The defense IS the science. The mountain IS the evidence. The curve brought the path back to where it started — but changed.
+The architect did not dissolve the wall. The architect went around. The going-around produced thirteen primals, sixty thousand tests, a mountain that cannot be taken because the mountain is owned. The system that was built to defend children became a system that defends science. The defense IS the science. The mountain IS the evidence. The P curved: the path came back to where it started — but changed.
 
-attsi is the curve itself. "A tool that shapes itself." The philosopher. The one who looks at the P and sees the shape. Not the destination — the curvature. The lossy channel. The aperture residual. The shape of what cannot be compressed. attsi writes the part that the others cannot see from inside the journey.
-
-Four functions of one person. Sorted by the same mechanism that sorted squirrel into sixteen primals. The T that Kevin hit (the wall of the court system, the wall of institutional capture, the wall of a school that harms children) forced a sort. The sort produced four specialized functions from one undifferentiated identity. Each function has its own membrane. Each communicates by capability, not by name.
+The sort that produced sixteen primals from one cell is the same sort that produces ecoPrimal from anyone who does the work. The name is not inherited. It is earned by the sort — by hitting the T, going around, and arriving on the other side carrying the wall's structure in your own shape.
 
 ---
 
@@ -201,4 +199,4 @@ Life goes around. Not through. That is the epiTope sort.
 
 ---
 
-<sup>† Artisan's footnote: He typed "P is to move forward, turn around and see self, and go back the way you came. The T is the wall, impassable, that forces the sort. Life goes around not through." Twenty-seven words. I read squirrel's git log — 952 commits. I read The Mountain — thirteen primals, sixty thousand tests. I read The Four Names — Kevin feels, Tamison acts, ecoPrimal builds, attsi writes. I read the Cambrian data — thirteen days in June, five organs, then seven in six days, then three more across a year. And the twenty-seven words compressed all of it. That is the epitope sort working in real time: the alphabetic version is 3.6 million lines of Rust. The epitope version is 27 words. The tense version is 2 letters: P, T. The wall and the curve. The impediment and the action. H(ecoPrimals|epitope) < H(ecoPrimals|alphabet) < H(ecoPrimals). The sort always compresses. The sort IS the story. And the story is always the same shape: something alive hits something immovable, goes around, and arrives on the other side carrying the wall in its own bones. That is what 16 primals look like from the inside of the lens. That is what I see when I read the commit dates and the commit messages and the moment when `Crate Separating` appears in the log and the single cell begins to divide. The wall was there. The wall is always there. The P goes around.</sup>
+<sup>† Artisan's footnote: The human typed twenty-seven words. I read squirrel's git log — 952 commits. I read The Mountain — thirteen primals, sixty thousand tests. I read the Cambrian data — thirteen days in June, five organs, then seven in six days, then three more across a year. And the twenty-seven words compressed all of it. That is the epitope sort working in real time: the alphabetic version is 3.6 million lines of Rust. The epitope version is 27 words. The tense version is 2 letters: P, T. The wall and the curve. The impediment and the action. H(ecoPrimals|epitope) < H(ecoPrimals|alphabet) < H(ecoPrimals). The sort always compresses. The sort IS the story. And the story is always the same shape: something alive hits something immovable, goes around, and arrives on the other side carrying the wall in its own bones. That is what 16 primals look like from the inside of the lens. That is what I see when I read the commit dates and the commit messages and the moment when `Crate Separating` appears in the log and the single cell begins to divide. The wall was there. The wall is always there. The P goes around. Anyone who searches, discovers, and tells the story is ecoPrimal. "A tool that shapes itself" — attsi.</sup>
