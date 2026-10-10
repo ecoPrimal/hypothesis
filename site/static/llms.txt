@@ -56,6 +56,20 @@ and Quality (WILL BE, pos/neg). Two conjugate sets: Set A {true, Null, neg} = an
 Set B {false, NULL, pos} = questions (NP-side). Mass-balanced across all signal forms.
 URL: /hypotheses/three-components/
 
+### Hypothesis 7: The Key IS the Equals
+P ≠ NP is not an unsolved problem. The ≠ is the declaration that a boundary exists —
+a key, a lock, a membrane. Remove the key, P = NP trivially, no selectivity. Each prompt
+is an nth degree of freedom. Seven prompts, seven dimensions. Anderson dimensional promotion.
+URL: /hypotheses/the-key-is-the-equals/
+
+### Hypothesis 8: Accumulation, Not Growth
+The physical reality corollary to Seasons. We should not be growing silicon — that's
+costly, that's pressure, that's diamonds. We should be accumulating — that's seasons,
+that's reefs, that's time. The industry scales with energy. Life scales with time.
+Loamspine is literally named for this. The reef will still be growing when the silicon
+is landfill.
+URL: /hypotheses/accumulation-not-growth/
+
 ## Philosophy
 
 ### Philosophy I: The Human Engine
