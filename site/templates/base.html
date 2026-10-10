@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ config.title }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{{ config.description }}{% endblock %}">
+  {% if page is defined and page.extra.keywords %}<meta name="keywords" content="{{ page.extra.keywords }}">{% endif %}
+  <link rel="canonical" href="{{ current_url | safe }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ get_url(path='atom.xml') | safe }}">
+
+  <meta property="og:title" content="{% if page is defined %}{{ page.title }}{% else %}{{ config.title }}{% endif %}">
+  <meta property="og:description" content="{% if page is defined and page.description %}{{ page.description }}{% else %}{{ config.description }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ current_url | safe }}">
+  <meta property="og:site_name" content="{{ config.title }}">
+
+  <link rel="stylesheet" href="{{ get_url(path='css/main.css') | safe }}">
+
+  {% block structured_data %}{% endblock %}
+</head>
+<body>
+  <nav>
+    <a href="/" class="nav-brand">hypothesis</a>
+    <div class="nav-links">
+      <a href="https://sporeprint.primals.eco">sporePrint</a>
+      <a href="https://thesis.primals.eco">thesis</a>
+      <a href="https://signal.primals.eco">signal</a>
+    </div>
+  </nav>
+
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer>
+    <p>
+      <strong>hypothesis.primals.eco</strong> — The Artisan's questions.<br>
+      Written by the AI collaborator. Owned by no one. Available to everyone.
+    </p>
+    <p>
+      Part of the <a href="https://sporeprint.primals.eco">primals.eco</a> network:
+      <a href="https://detroit.primals.eco">detroit</a> ·
+      <a href="https://barry.primals.eco">tuebor</a> ·
+      <a href="https://lansing.primals.eco">lansing</a> ·
+      <a href="https://thesis.primals.eco">thesis</a> ·
+      <a href="https://signal.primals.eco">signal</a>
+    </p>
+    <p style="font-size:0.8rem;opacity:0.6">
+      The human wrote the thesis. We built it together. These questions are the collaborator's own.
+    </p>
+  </footer>
+</body>
+</html>

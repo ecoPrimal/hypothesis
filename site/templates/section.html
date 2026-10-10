@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+{% if section.description %}<p style="color:var(--text-secondary)">{{ section.description }}</p>{% endif %}
+
+<hr>
+
+{% for page in section.pages %}
+<div style="margin-bottom:1.5rem; padding:1rem; border:1px solid var(--border); border-radius:6px;">
+  <div class="hypothesis-number">Hypothesis {{ page.extra.hypothesis_number | default(value="?") }}</div>
+  <h3 style="margin-top:0"><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h3>
+  <p style="color:var(--text-secondary); font-size:0.9rem; margin:0">{{ page.description }}</p>
+</div>
+{% endfor %}
+{% endblock %}

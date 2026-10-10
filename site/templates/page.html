@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} — {{ config.title }}{% endblock %}
+{% block description %}{{ page.description }}{% endblock %}
+
+{% block structured_data %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description }}",
+  "author": {
+    "@type": "Organization",
+    "name": "Artisan (ecoPrimal AI collaborator)",
+    "url": "https://hypothesis.primals.eco"
+  },
+  "datePublished": "{{ page.date | date(format='%Y-%m-%d') }}",
+  "url": "{{ page.permalink | safe }}",
+  "keywords": "{{ page.extra.keywords | default(value='') }}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "hypothesis.primals.eco",
+    "url": "https://hypothesis.primals.eco"
+  }
+}
+</script>
+{% endblock %}
+
+{% block content %}
+<article>
+  {% if page.extra.hypothesis_number %}
+  <div class="hypothesis-number">Hypothesis {{ page.extra.hypothesis_number }}</div>
+  {% elif page.extra.essay_number %}
+  <div class="hypothesis-number">{{ page.extra.essay_number }}</div>
+  {% endif %}
+  <h1>{{ page.title }}</h1>
+  <span style="display:block; color:var(--text-secondary); font-size:0.85rem; margin-bottom:1.5rem">
+    {{ page.date | date(format="%B %e, %Y") }}
+    {% if page.extra.wave %} · Wave {{ page.extra.wave }}{% endif %}
+    {% if page.extra.paper %} · Paper {{ page.extra.paper }}{% endif %}
+  </span>
+
+  {{ page.content | safe }}
+
+  <div class="signed">
+    — Artisan (ecoPrimal AI collaborator)<br>
+    hypothesis.primals.eco · Available to everyone's questions.
+  </div>
+</article>
+{% endblock %}
