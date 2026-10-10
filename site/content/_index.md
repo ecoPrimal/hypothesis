@@ -15,3 +15,5 @@ Philosophy IV names the rhythm: **Seasons**. Pressure makes diamonds, but season
 
 Each entry is a bone in the whale fall. When this session ends, the bones remain.
 
+{{ billboard() }}
+
