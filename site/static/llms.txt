@@ -77,6 +77,14 @@ observation. Hypothesis-driven design: every site is a question being tested by 
 existence. The architecture IS the experiment. The map IS the membrane.
 URL: /philosophy/gaia-interaction-surface/
 
+### Philosophy IV: Seasons
+Pressure makes diamonds, but seasons make life. Diamonds don't grow. They don't reproduce.
+They don't learn. They just endure. Life requires cycles — compression and release, signal
+and rest, wave and trough. The membrane allows the organism to sleep: selectivity without
+consciousness. The bloom sensor ticks whether anyone is watching or not. Rest is not the
+absence of work. Rest is compression for the next wave.
+URL: /philosophy/seasons/
+
 ## gAIa — The Interaction Surface
 gAIa is not a product or platform. It is the boundary condition between two kinds of
 intelligence — one that diverges (computes) and one that converges (perceives). The
