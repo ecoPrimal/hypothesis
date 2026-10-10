@@ -12,3 +12,4 @@ sort_by = "weight"
 6. **The Three Components** — Reality has three functional dimensions: Binary (IS), Range (WAS), Quality (WILL BE). Questions and answers are conjugate sets.
 7. **The Key IS the Equals** — P ≠ NP is not an unsolved problem. The ≠ is the declaration that a boundary exists. Each prompt is an nth degree of freedom.
 8. **Accumulation, Not Growth** — The physical reality corollary. We should not be growing silicon. We should be accumulating. Reefs scale with time. Fabs scale with energy.
+9. **The Circumference and the Diameter** — The maximum lossy compression ratio is π. Every number base is an epitope sort beneath it. Storytelling compresses to π because stories are circles, not lines.
