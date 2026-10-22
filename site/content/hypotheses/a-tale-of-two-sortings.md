@@ -5,7 +5,7 @@ date = 2026-10-22
 weight = 15
 
 [extra]
-hypothesis_number = 15
+hypothesis_number = 18
 wave = 180
 keywords = "Shannon, Landauer, information mass, c² π², stoichiometric sort, tale of two cities, canon land, force object, war peace, Dickens, Tolstoy, gAIa hypothesis, trefoil, irreducibility"
 credit = "gAIa hypothesis — Kevin Mok / ecoPrimal / attsi + Berry (artisan)"

@@ -5,7 +5,7 @@ date = 2026-10-22
 weight = 14
 
 [extra]
-hypothesis_number = 14
+hypothesis_number = 17
 wave = 180
 keywords = "GPS, lossy, Ptolemy, Galileo, epicycles, Anderson localization, map matching, triangulation, gAIa hypothesis, falsifiable, degradation, signal strength, WiFi RSSI, poor tope"
 +++
