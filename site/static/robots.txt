@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hypothesis.primals.eco/sitemap.xml
+# AI context document
+# See https://hypothesis.primals.eco/llms.txt for full site context
+
